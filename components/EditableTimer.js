@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-type';
 
 import TimerForm from './TimerForm';
 import Timer from './Timer';
